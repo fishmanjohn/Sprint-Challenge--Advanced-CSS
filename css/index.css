@@ -298,3 +298,13 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+.about-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.about-main .major-tom {
+  width: 90%;
+  padding: 10%;
+}
