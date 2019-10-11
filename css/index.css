@@ -234,7 +234,7 @@ footer {
 .home .walk .walk-text p {
   margin-bottom: 26px;
 }
-.home .walk .walk-text .btn {
+.home .walk .btn button {
   background-color: #22283A;
   border: 1px solid ;
   boarder-radius: 12px;
@@ -244,6 +244,10 @@ footer {
   text-decoration: none;
   display: inline-block;
   font-size: 1.5rem;
+}
+.home .walk .btn button:hover {
+  background-color: #F1F1F1;
+  color: #22283A;
 }
 .home .walk .walk-img {
   width: 46%;
